@@ -7,7 +7,4 @@ class Pokemon
     @type = type
   end
   
-  def self.save 
-    
-  
 end
